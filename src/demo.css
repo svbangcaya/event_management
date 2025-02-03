@@ -1,0 +1,10 @@
+.body{
+    background-color: black;
+}
+
+.container{
+    background-color: pink;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 10px;
+}   
