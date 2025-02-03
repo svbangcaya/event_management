@@ -3,8 +3,8 @@
 Event Management is a web app made to make planning, organizing, and running events easier. It is built with React, TypeScript, and Vite. This app helps simplify event planning by providing a clean and easy-to-use interface with useful tools.
 
 # Tech Stack
-**Frontend**: React, Typescript
-**Development Environment**: Vite
+- **Frontend**: React, Typescript
+- **Development Environment**: Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
